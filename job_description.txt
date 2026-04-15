@@ -1,0 +1,4 @@
+Data Scientist Role
+Skills: Python, Machine Learning, SQL, Deep Learning
+Tools: TensorFlow, Pandas
+Experience: 2+ years
